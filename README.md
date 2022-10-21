@@ -1,5 +1,5 @@
 # thane5-blender-keymap
-My personal Blender keymap that attempts to be intuitive for beginners and advances users alike.
+My personal Blender (3.4.0 Alpha) keymap that attempts to be intuitive for beginners and advances users alike.
 
 ## How to install
 ### Option A: Install just the keymap
