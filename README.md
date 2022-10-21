@@ -4,7 +4,7 @@ My personal Blender (3.4.0 Alpha) keymap that attempts to be intuitive for begin
 ## How to install
 ### Option A: Install just the keymap
 Go to preferences -> Keymap -> import and Import Blender_keymap_by_thane5.py.
-### Option B: Install the userprefs file 
+### Option B: Install the userprefs.blend file 
 This will let you keep the "preferences" section on top of new keymaps, which for some reason is missing when you install a keymap via the python file. Unfortunately, this replaces all of your other blender settings. Anyways, just move userprefs.blend into the same folder as the startup file (usually \AppData\Roaming\Blender Foundation\Blender\3.4\config)
 
 ## Features
