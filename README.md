@@ -36,8 +36,10 @@ No need to take your right hand off the mouse to parent an object or to focus on
 |Frame selected|F|
 |Frame all|Shift+F|
 |Local view|Alt+Q|
+|Brush Radial Control|D|
 |Pie Menu: Shading|V|
-|Toggle Wireframe|Shift V|
+|Toggle Wireframe|Shift+V|
+|Toggle Wireframe Overlay|Alt+W|
 |Pie Menu: Pivot Point|Tilde Key (^)|
 |Rip Vertices (Edit Mode)|Shift+R|
 
