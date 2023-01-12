@@ -1,5 +1,5 @@
 # thane5-blender-keymap
-My personal Blender (3.4.0 Alpha) keymap that attempts to be intuitive for beginners and advances users alike.
+My personal Blender (3.4.1) keymap that attempts to be intuitive for beginners and advances users alike.
 
 ## How to install
 ### Option A: Install just the keymap
@@ -37,6 +37,7 @@ No need to take your right hand off the mouse to parent an object or to focus on
 |Frame all|Shift+F|
 |Local view|Alt+Q|
 |Brush Radial Control|D|
+|Subdivide Mesh|D|
 |Pie Menu: Shading|V|
 |Toggle Wireframe|Shift+V|
 |Toggle Wireframe Overlay|Alt+W|
