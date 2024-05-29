@@ -52,6 +52,7 @@ Alt+C now brings up the parent menu, Alt+Shift+C the unparent menu. Circle-selec
 |Operator|Shortcut   |
 | :------------ | :------------ |
 |Make Face (Edit Mode)|C|
+|Join Objects (Object Mode)|C|
 |Set parent (Object & Bone Edit Mode)|Alt C|
 |Clear parent (Object & Bone Edit Mode)|Alt Shift C|
 |Circle Select|Shift C|
