@@ -29,7 +29,7 @@ Rotating, panning and zooming the 3d view requires no modifier key, as they are 
 **Note: Since the context menu can no longer be used by the right mouse button, it has now been assigned to the W key in most places.**
 
 ### 3. Left-handed shortcuts. 
-No need to take your right hand off the mouse to parent an object or to focus on an object. Some Shortcuts that prevoiously required a numpad are not more easily acessible.
+No need to take your right hand off the mouse to parent an object or to focus on an object. Some Shortcuts that prevoiously required a numpad are not more easily accessible.
 
 |Operator|Shortcut   |
 | :------------ | :------------ |
