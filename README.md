@@ -1,11 +1,11 @@
 # thane5-blender-keymap
-My personal Blender (3.4.1) keymap that attempts to be intuitive for beginners and advanced users alike.
+My personal Blender (4.0.2) keymap that attempts to be intuitive for beginners and advanced users alike.
 
 ## How to install
 ### Option A: Install just the keymap
 Go to preferences -> Keymap -> import and Import Blender_keymap_by_thane5.py.
 ### Option B: Install the userprefs.blend file 
-This will let you keep the "preferences" section on top of new keymaps, which for some reason is missing when you install a keymap via the python file. Unfortunately, this replaces all of your other blender settings. Anyways, just move userprefs.blend into the same folder as the startup file (usually \AppData\Roaming\Blender Foundation\Blender\3.4\config)
+This will let you keep the "preferences" section on top of new keymaps, which for some reason is missing when you install a keymap via the python file. Unfortunately, this replaces all of your other blender settings. Anyways, just move userprefs.blend into the same folder as the startup file (usually \AppData\Roaming\Blender Foundation\Blender\4.0\config)
 
 ## Features
 ### 1. Optimized for  QWERTZ keyboards
