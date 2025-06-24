@@ -43,6 +43,7 @@ No need to take your right hand off the mouse to parent an object or to focus on
 |Toggle Wireframe Overlay|Alt+W|
 |Pie Menu: Pivot Point|Tilde Key (^)|
 |Rip Vertices (Edit Mode)|Shift+R|
+|Rip Vertices (with "Fill" enabled, Edit Mode)|Alt+R|
 
 ### 4. The "Connect" key
 This keymap now combines several actions under the C key. In mesh/bone/curve mode it takes over what previously was the F key - connecting nodes, vertices and making new faces.
